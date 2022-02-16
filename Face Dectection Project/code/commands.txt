@@ -1,0 +1,2 @@
+python dataClassifier.py  -d faces
+python dataClassifier.py -d digits
